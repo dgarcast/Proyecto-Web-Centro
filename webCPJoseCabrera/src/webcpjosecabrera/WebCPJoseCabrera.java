@@ -17,7 +17,7 @@ public class WebCPJoseCabrera {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("CDP JOSE CABRERA");
-        System.out.println("Bienvenido a la pagina del centro");
+        
     }
     
 }
