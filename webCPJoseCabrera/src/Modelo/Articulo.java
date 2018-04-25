@@ -10,5 +10,5 @@ package Modelo;
  * @author david
  */
 public class Articulo {
-    
+    int idArticulos;
 }
