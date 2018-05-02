@@ -3,21 +3,19 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package webcpjosecabrera;
+package estudio.java.pkg1.trimestre;
 
 /**
  *
  * @author david
  */
-public class WebCPJoseCabrera {
+public class ESTUDIOJAVA1TRIMESTRE {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("CDP JOSE CABRERA");
-        System.out.println("Bienvenido a la pagina web del centro jose cabrera");
     }
     
 }
